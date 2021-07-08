@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1609172641 source:c:\users\admin\desktop\proiectip23\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<limits.h>
+	<ctype.h>
+
+1609270179 source:c:\users\admin\desktop\proiectip28\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+	<limits.h>
+	<ctype.h>
+
+1609767863 source:c:\users\admin\desktop\proiectip29\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<iomanip>
+
+1610723744 source:c:\users\admin\desktop\interschem\main.cpp
+	<iostream>
+	<math.h>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<fstream>
+
